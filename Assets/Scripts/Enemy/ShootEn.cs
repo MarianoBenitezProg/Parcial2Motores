@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public interface Damagable 
+public class ShootEn : Enemy
 {
-    public void TakeDmg (int dmg);
+    
 }
